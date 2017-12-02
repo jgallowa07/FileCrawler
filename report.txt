@@ -1,0 +1,8 @@
+the project went well
+
+I could spent a little more time cleaning up memory leaks 
+
+other than that I enjoyed this project and it seems to be 
+running exactly as specified.
+
+-Jared Galloway
